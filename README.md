@@ -140,5 +140,9 @@ Sample Screenshots:
 
 ![Virustotal Scan](./Images/VirusTotal.png)
 
+![URLScan.io Tool](./Images/URLScan.io.png)
+
+![Comparison Chart](./Images/Comparison_Chart.png)
+
 
 
