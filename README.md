@@ -96,38 +96,38 @@ To integrate with external vulnerability scanning tools, generate API keys from 
 3. 📦 Install Project Dependencies
 Open your terminal and navigate to the root directory. Then install dependencies for both frontend and backend:
 
-	cd backend
-	npm install
-
-	cd ..
-	npm install
+		cd backend
+		npm install
+	
+		cd ..
+		npm install
 
 4. 📁 Create .env File
 In the backend folder, create a .env file and add the following configuration:
 
-	PORT=5002
-
-	MONGO_URI=mongodb://localhost:27017/PenetrationDB
-
-	ZAP_API_KEY=your_zap_api_key_here
-
-	ZAP_BASE_URL=http://127.0.0.1:8080
-
-	VIRUSTOTAL_API_KEY=your_virustotal_api_key_here
-
-	URLSCAN_API_KEY=your_urlscan_api_key_here
-
-	JWT_SECRET=my_secret_pwd
+		PORT=5002
+	
+		MONGO_URI=mongodb://localhost:27017/PenetrationDB
+	
+		ZAP_API_KEY=your_zap_api_key_here
+	
+		ZAP_BASE_URL=http://127.0.0.1:8080
+	
+		VIRUSTOTAL_API_KEY=your_virustotal_api_key_here
+	
+		URLSCAN_API_KEY=your_urlscan_api_key_here
+	
+		JWT_SECRET=my_secret_pwd
 
 6. 🚀 Run the Backend Server
 Start the Express server by navigating to the backend folder and running:
 
-	node server.js
+		node server.js
 
 7. 💻 Run the Frontend Application
 In a new terminal window, navigate to the frontend folder and start the development server:
 
- 	npm run dev
+	 	npm run dev
 
 Once everything is running, you’ll be able to access the web interface, initiate scans, and view real-time results and comparisons across all the integrated tools.
 
@@ -137,5 +137,8 @@ Sample Screenshots:
 ![image](https://github.com/user-attachments/assets/9aa6a3c2-d4b7-4514-991f-67f4cb9e55bc)
 
 ![ZAP Tool](./Images/ZAP.png)
+
+![Virustotal Scan](./Images/VirusTotal.png)
+
 
 
