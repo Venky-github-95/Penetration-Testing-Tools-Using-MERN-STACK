@@ -142,7 +142,8 @@ Sample Screenshots:
 
 ![URLScan.io Tool](./Images/URLScan.io.png)
 
-![Comparison Chart](./Images/Comparison_Chart.png)
+![Comparison Chart](./Images/Comparison_Charts.png)
 
+![Download PDF](./Images/PDF_Download.png)
 
 
