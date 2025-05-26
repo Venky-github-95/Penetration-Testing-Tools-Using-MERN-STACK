@@ -132,7 +132,7 @@ In a new terminal window, navigate to the frontend folder and start the developm
 Once everything is running, you’ll be able to access the web interface, initiate scans, and view real-time results and comparisons across all the integrated tools.
 
 
-Sample Screenshots
+Sample Screenshots:
 
 ![image](https://github.com/user-attachments/assets/9aa6a3c2-d4b7-4514-991f-67f4cb9e55bc)
 
